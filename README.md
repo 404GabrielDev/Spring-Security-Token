@@ -1,7 +1,5 @@
 > ⚠️ Este projeto possui código separado em duas branches: `master` (backend) e `frontend` (frontend). Esta branch `main` é usada apenas para exibir este README.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-0659702b3/)
-
 # Sistema de Autenticação com JWT (Java + Angular)
 
 Projeto fullstack com autenticação baseada em token JWT. Desenvolvido com **Java (Spring Boot)** no backend e **Angular** no frontend, separados em duas branches.
@@ -101,7 +99,7 @@ Desenvolvedor Full Stack com foco em aplicações modernas usando Java, Angular 
 
 📬 #### Entre em Contato
 
-* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-0659702b3/)
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-0659702b3/)
 
 * Email: joaogabriell.ssm@gmail.com
 
