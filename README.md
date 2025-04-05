@@ -101,6 +101,7 @@ Desenvolvedor Full Stack com foco em aplicações modernas usando Java, Angular 
 
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-s-0659702b3/)
 
-* Email: joaogabriell.ssm@gmail.com
+* [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:joaogabriell.ssm@gmail.com)
+
 
 
