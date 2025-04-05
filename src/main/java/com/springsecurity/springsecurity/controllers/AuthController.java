@@ -32,6 +32,7 @@ public class AuthController {
 
         if(passwordEncoder.matches(body.password(), user.getPassword())) {
             String token = this.tokenService.generateToken(user);
+            ResponseDTO response = new ResponseDTO(user.getName(), token);
             return ResponseEntity.ok(new ResponseDTO(user.getName(), token));
         }
         return ResponseEntity.badRequest().build();
